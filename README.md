@@ -1,2 +1,2 @@
 # Publisher
-Website that find new musical talents and give them a opportunit of conquest the world!
+Website that find new musical talents and give them a opportunit for conquest the world!
